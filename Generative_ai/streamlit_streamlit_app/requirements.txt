@@ -1,0 +1,1 @@
+streamlit==1.38.0 pandas==2.2.3 pillow==10.4.0 plotly==5.24.1
