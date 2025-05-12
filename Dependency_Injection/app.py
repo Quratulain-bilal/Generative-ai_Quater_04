@@ -59,7 +59,7 @@ def get_masala_mix():
 
 
 # 🚀 STEP 4: API Endpoints (Chefs enter the kitchen!)
-# Here, we use Depends() to inject dependencies at runtime,
+# Here  we use Depends() to inject dependencies at runtime,
 # which allows us to switch or mock dependencies easily.
 
 @app.get("/italian-chef")
