@@ -120,4 +120,4 @@ This simple example shows how Dependency Injection helps keep code:
 🔌 Loosely Coupled
 🧪 Easy to Test
 🔄 Easy to Modify
-Even though it’s just a chef and some sauce, this is how real-world apps inject databases, APIs, services, and more!
+Even though it’s just a chef and some sauce, this is how real-world apps inject databases, APIs and services.
