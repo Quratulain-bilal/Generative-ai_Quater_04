@@ -39,7 +39,7 @@ You can set task status to one of the following:
 pending
 in_progress
 completed
-🛠️ How to Run the Project
+🛠️ How to Run the project
 1. Navigate to your project directory:
 cd path/to/task_manager
 
