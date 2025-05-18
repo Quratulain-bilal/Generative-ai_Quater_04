@@ -1,8 +1,8 @@
 # 🧩 Task Management System using FastAPI
 
-# -------------------------------
+# -----------------------------
 # 📦 IMPORTS
-# -------------------------------
+# -----------------------------
 
 from fastapi import FastAPI, HTTPException  # FastAPI framework aur error handling
 from pydantic import BaseModel, EmailStr, constr, validator  # Data validation tools
