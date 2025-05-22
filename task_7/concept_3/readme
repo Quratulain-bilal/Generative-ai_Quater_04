@@ -1,0 +1,40 @@
+📚 What are Generics in Python?
+Generics Python mein aise tools hain jo aapko ek hi class ya function ko multiple data types ke sath reuse karne dete hain. Matlab ye hai ke aap ek aisi cheez bana sakte hain jo string, integer, ya kisi bhi type pe kaam kare, bina alag alag versions banaye.
+
+Ye feature Python ke typing module ka hissa hai, jisme aksar TypeVar aur Generic ka use hota hai.
+
+Generics ka fayda kya hai?
+Code Reusability: Ek hi code multiple types ke liye use kar sakte hain.
+
+Type Safety: Aap type hints ke zariye ensure kar sakte hain ke functions aur classes sahi data types ke sath kaam kar rahe hain.
+
+Flexibility: Code ko zyada flexible aur scalable banata hai.
+
+Maintainability: Code ko samajhna aur maintain karna asaan hota hai.
+
+⚙️ Why do we use Generics for TContext?
+TContext ek generic type variable hota hai jo batata hai ke agent ka context yani background information dynamic ho sakta hai. Matlab:
+
+Kabhi TContext ek string ho sakta hai,
+
+Kabhi dict (dictionary),
+
+Kabhi aapka custom class ya koi aur data type.
+
+Is tarah:
+
+Aapka agent flexible ho jata hai,
+
+Har tarah ke context data ke sath kaam kar sakta hai,
+
+Type errors se bachata hai,
+
+Aur aapka code zyada generic aur reusable hota hai.
+
+
+
+📝 Summary
+Concept	Explanation
+Generics	Python ka feature jo ek code ko multiple types ke liye use karta hai
+TContext	Generic placeholder jo agent ke context ko flexible banata hai
+Benefits	Reusability, type safety, flexibility, aur maintainability

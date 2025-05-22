@@ -1,0 +1,61 @@
+# 🤖 Why is the System Prompt in the Agent Class & Why is the Agent Callable?
+
+## 🧠 1. System Prompt Agent Class mein kyun hota hai?
+
+System prompt ek **instruction** hoti hai jo agent ko batata hai ke usay kaise kaam karna hai — jaise tone, behavior, aur role.
+
+### 🔸 Example:
+Agar system prompt ho:
+> "Tum aik travel planner ho. User ke sawalat ka muskurahat aur short jawab do."
+
+To agent sirf travel related jawab dega, aur friendly tone mein.
+
+### 📌 Isko Agent class ke andar rakhne ke faide:
+- Agent ka **role fixed** rehta hai
+- Har agent ka **apna style** hota hai
+- Instructions bar bar deni ki zarurat nahi padti
+- Behavior consistent rehta hai
+
+---
+
+## 🔁 2. Agent ko Callable kyun banate hain?
+
+Python mein agar aap class ke andar `__call__()` method define karte ho, to us class ka object function ki tarah kaam karta hai.
+
+### 🔹 Example:
+
+```python
+response = agent("Mujhe Paris ka trip plan karo")
+Agar agent callable na ho to likhna padta:
+
+python
+Copy code
+response = agent.plan("Mujhe Paris ka trip plan karo")
+📌 Faide:
+Code short aur natural hota hai
+
+Jaise kisi insan se direct baat kar rahe ho
+
+Interface friendly lagta hai
+
+🤝 3. System Prompt + Callable ka Combination
+Jab agent ke paas:
+
+🔐 Apni prompt hoti hai (soch aur role ke liye)
+
+🔁 Aur woh callable hota hai (function ki tarah)
+
+To aap banate ho ek:
+
+Smart 🤖
+
+Reusable 🔄
+
+User-friendly 💬 AI Agent
+
+✅ Advantages:
+Har agent ka role clear hota hai
+
+Use karna asaan hota hai
+
+Code readable aur testable ban jata hai
