@@ -222,8 +222,7 @@ Once you’re comfortable, you can:
 
 ## 😊 Conclusion
 
-Tool calling and function calling with the OpenAI SDK open up a world of possibilities. They let the AI go beyond chatting to perform real tasks—whether it’s solving math problems, fetching weather updates, or powering your next app. As a beginner, you’ve got everything you need to start: a free API key, some sample code, and your curiosity. So, dive in, experiment, and have fun building with AI! What will you create first? ✨
+Tool calling and function calling with the OpenAI SDK open up a world of possibilities. They let the AI go beyond chatting to perform real tasks—whether it’s solving math problems, fetching weather updates, or powering your next app. As a beginner, you’ve got everything you need to start: a free API key, some sample code, and your curiosity. So, dive in, experiment, and have fun building with ai
 
----
 
-*Written by Ayesha Iqbal*
+
