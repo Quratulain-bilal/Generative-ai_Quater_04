@@ -2,20 +2,6 @@
 
 ![FastAPI Logo](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
 
-## 📌 Table of Contents
-- [Introduction](#-introduction)
-- [Parameter Types](#-parameter-types)
-  - [Path Parameters](#1-🏠-path-parameters)
-  - [Query Parameters](#2-🔍-query-parameters)
-  - [Request Body](#3-📦-request-body)
-  - [Header Parameters](#4-🎫-header-parameters)
-  - [Cookie Parameters](#5-🍪-cookie-parameters)
-  - [Form Parameters](#6-📝-form-parameters)
-  - [File Parameters](#7-📁-file-parameters)
-- [Quick Reference](#-quick-reference-cheat-sheet)
-- [Installation](#-installation)
-- [Usage Examples](#-usage-examples)
-- [Contributing](#-contributing)
 
 ## 🌟 Introduction
 This comprehensive guide demonstrates all FastAPI parameter types with:
