@@ -19,7 +19,7 @@ The `@dataclass` decorator automatically adds:
 
 ## 🤖 Why Use `@dataclass` for the Agent?
 
-Below are the key reasons:
+Below  reasons:
 
 ### 1️⃣ **Simple & Concise Code**
 > You can skip writing constructors, `__repr__`, and comparison logic — Python does it for you!
