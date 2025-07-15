@@ -210,7 +210,7 @@ As a beginner, watch out for these:
 
 ---
 
-## 🚀 What’s Next?
+##  What’s Next?
 
 Once you’re comfortable, you can:
 
